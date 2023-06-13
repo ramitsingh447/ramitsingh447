@@ -1,4 +1,4 @@
-- Hello, my name is Ramit Singh and I am currently a fourth year student at San Francisco State (SFSU). 
+- Hello, my name is Ramit Singh and I am a recent graduate from San Francisco State University (Bachelor of sciecne in computer sciecne) 
 -  I’m interested in becoming an security engineer.
 -  I’m currently learning how to program at an higher level.
 -  I’m looking to collaborate more on how to get ready to become an cyber security analyst.
